@@ -1,3 +1,0 @@
-# JMeter generated Header file
-Authorization	Basic ${__base64Encode(${__V(BASIC_USER)}:${__V(BASIC_PASS)})}
-Content-type	application/x-www-form-urlencoded

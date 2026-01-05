@@ -1,3 +1,0 @@
-# JMeter generated Authorization file
-apitest.mazdausa.com	981eaaa22ab64c968a1d9d2e790085c8	f96528263EAC47EC84b21fDfec905342	.		BASIC
-					BASIC
