@@ -1,0 +1,20 @@
+{
+  "testrail": {
+    "url": "https://mazdausa.testrail.com",
+    "username": "wgonzal6@mazdausa.com",
+    "api_key": "sobna.yB3QBbnpc4LMf7-SjKpFb3DN3tFXPPKvcbf",
+    "project_id": 293,
+    "suite_id": null,
+    "parent_section_id": 8990
+  },
+  "options": {
+    "create_sections": true,
+    "map_folders_to_sections": true
+  },
+ "postman": {
+    "collection_path": "newman/BPXAPI.postman_collection.json",
+    "default_test_type": "happy",
+    "happy_keywords": ["hp", "happy"],
+    "negative_keywords": ["nt", "negative"]
+  }
+}
